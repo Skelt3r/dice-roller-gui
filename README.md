@@ -1,1 +1,2 @@
-Simply run the main.py file. (make sure the d20 image is in the same directory)
+# Dice Roller
+![image](https://github.com/Skelt3r/dice-roller-gui/blob/main/screenshot.png)
