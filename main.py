@@ -1,5 +1,3 @@
-# A simple dice roller GUI, made with Tkinter.
-
 from random import randint
 from tkinter import *
 
